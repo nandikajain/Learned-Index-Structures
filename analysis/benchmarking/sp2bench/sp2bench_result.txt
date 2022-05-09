@@ -1,1 +1,2 @@
-Average time taken is (in seconds):3.8281034118988932
+Average time taken is (in seconds) for sp2b_50k.n3 :0.014209598302841187
+Average time taken is (in seconds) for sp2b_100k.n3 :0.014644952118396759
